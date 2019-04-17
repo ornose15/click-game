@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/07/03 18:04:44.738.pas,C:\Users\Pyrokid\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Pyrokid\Documents\RAD Studio\Projects\ClickGame.pas</Transaction>
+    <Transaction>2011/07/03 18:04:44.738.dfm,C:\Users\Pyrokid\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Pyrokid\Documents\RAD Studio\Projects\ClickGame.dfm</Transaction>
+    <Transaction>2011/07/03 18:06:13.605.pas,C:\Users\Pyrokid\Documents\RAD Studio\Projects\ClickGame.pas=C:\Users\Pyrokid\Desktop\Everything\Click Game\ClickGameSrc.pas</Transaction>
+    <Transaction>2011/07/03 18:06:13.605.dfm,C:\Users\Pyrokid\Documents\RAD Studio\Projects\ClickGame.dfm=C:\Users\Pyrokid\Desktop\Everything\Click Game\ClickGameSrc.dfm</Transaction>
+    <Transaction>2011/07/03 18:06:25.206.dproj,C:\Users\Pyrokid\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Pyrokid\Desktop\Everything\Click Game\ClickGame.dproj</Transaction>
+    <Transaction>2011/07/04 13:05:11.162.pas,C:\Users\Pyrokid\Desktop\Everything\Click Game\Unit2.pas=C:\Users\Pyrokid\Desktop\Everything\Click Game\About.pas</Transaction>
+    <Transaction>2011/07/04 13:05:11.162.dfm,C:\Users\Pyrokid\Desktop\Everything\Click Game\Unit2.dfm=C:\Users\Pyrokid\Desktop\Everything\Click Game\About.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
